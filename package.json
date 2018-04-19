@@ -1,0 +1,27 @@
+{
+  "name": "week10",
+  "version": "1.0.0",
+  "description": "ES6 Compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ES6": "babel src/mainES6.js --out-file public/js/main.js"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
+
+{
+  "kind": "youtube#videoCategory",
+  "etag": etag,
+  "id": string,
+  "snippet": {
+    "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+    "title": string,
+    "assignable": boolean
+  }
+}

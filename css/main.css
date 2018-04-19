@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	font-family: "Trebuchet MS", Futura, arial, sans-serif;
+	background-image: url("../images/sky2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
+
+#wrapper{
+	height: 100vw;
+	width: 100vw;
+	top: 0px;
+	left: 0px;
+
+}
+
+#zipInput{
+	margin: 10px 0px;
+}
+
+hr {
+	margin: 20px 0px;
+}
